@@ -1,0 +1,8 @@
+{
+  "contest": 383,
+  "handle": "SpicyMeatball",
+  "risk": "2",
+  "title": "PriceFeed.sol doesn't check if chainlink price is min/max",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/14"
+}
