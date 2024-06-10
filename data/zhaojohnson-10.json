@@ -1,0 +1,8 @@
+{
+  "contest": 383,
+  "handle": "zhaojohnson",
+  "risk": "3",
+  "title": "Liquidation process may be reverted because of slipage control",
+  "issueId": 10,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/10"
+}
