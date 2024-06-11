@@ -1,0 +1,8 @@
+{
+  "contest": 383,
+  "handle": "SpicyMeatball",
+  "risk": "2",
+  "title": "Liquidation of the insolvent vault may fail for pairs that include tokens with a blacklist (USDC, USDT)",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/15"
+}
