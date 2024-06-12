@@ -1,0 +1,8 @@
+{
+  "contest": 383,
+  "handle": "zhaojohnson",
+  "risk": "2",
+  "title": "Liquidate process may be reverted because some tokens will be reverted to transfer to zero address.",
+  "issueId": 18,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/18"
+}
