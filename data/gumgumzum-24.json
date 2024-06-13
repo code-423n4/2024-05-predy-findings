@@ -1,0 +1,8 @@
+{
+  "contest": 383,
+  "handle": "gumgumzum",
+  "risk": "2",
+  "title": "Full liquidation of vault will not be possible when there is a left over margin and the vault recipient is blacklisted.",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/24"
+}
