@@ -1,0 +1,8 @@
+{
+  "contest": 383,
+  "handle": "gumgumzum",
+  "risk": "2",
+  "title": "PriceFeed does not return to the correct price for quote pairs",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/22"
+}
