@@ -1,0 +1,8 @@
+{
+  "contest": 383,
+  "handle": "shaflow2",
+  "risk": "2",
+  "title": "PriceFeed did not perform a health check when obtaining prices from Aggregator",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/21"
+}
