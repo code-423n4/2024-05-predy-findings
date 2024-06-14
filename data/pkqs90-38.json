@@ -1,0 +1,8 @@
+{
+  "contest": 383,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "When maintaining a position in PerpMarketV1, users are not allowed to deposit extra margin to prevent their position from being liquidated.",
+  "issueId": 38,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/38"
+}
