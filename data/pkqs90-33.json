@@ -1,0 +1,8 @@
+{
+  "contest": 383,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "UniswapSettlement does not use forceApprove, and may revert when quoteToken is USDT",
+  "issueId": 33,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/33"
+}
