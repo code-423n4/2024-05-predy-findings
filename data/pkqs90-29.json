@@ -1,0 +1,8 @@
+{
+  "contest": 383,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "Chainlink aggregator does not check for stale price",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/29"
+}
