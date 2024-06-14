@@ -1,0 +1,8 @@
+{
+  "contest": 383,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "ArrayLib uses an O(n) implementation for removeItem, this may cause out-of-gas issue while removing position in GammaTradeMarket",
+  "issueId": 43,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/43"
+}
