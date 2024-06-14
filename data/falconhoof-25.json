@@ -1,0 +1,8 @@
+{
+  "contest": 383,
+  "handle": "falconhoof",
+  "risk": "2",
+  "title": "Lack of slippage controls in supply() & withdraw() functions ",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/25"
+}
