@@ -1,0 +1,8 @@
+{
+  "contest": 383,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "Centralization risk: PoolOwners have the power to lock all user funds from Market contracts, and can liquidate any account",
+  "issueId": 35,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/35"
+}
