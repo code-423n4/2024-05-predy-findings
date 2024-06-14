@@ -1,0 +1,8 @@
+{
+  "contest": 383,
+  "handle": "pkqs90",
+  "risk": "3",
+  "title": "Users can call autoClose/autoHedge for other user position in GammaTradeMarket",
+  "issueId": 44,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/44"
+}
