@@ -1,0 +1,8 @@
+{
+  "contest": 383,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "When a vault is being liquidated, the remaining margin may fail to transfer to original trader due to USDT blocklist",
+  "issueId": 39,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/39"
+}
