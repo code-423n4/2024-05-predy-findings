@@ -6,7 +6,7 @@
 
 ### Impact
 
-When performing a liquidation through the `LiquidationLogic.liquidate` library function, the `valutID` parameter is not validated, allowing `vaultID` to be 0 or an otherwise invalid vault ID to be referenced.
+When performing a liquidation through the `LiquidationLogic.liquidate` library function, the `valutID` parameter is not validated, allowing an invalid vault with `vaultID` of 0 to be referenced.
 
 **`LiquidationLogic.liquidate`**:
 
