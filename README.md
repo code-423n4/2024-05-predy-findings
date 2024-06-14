@@ -66,9 +66,9 @@ Judges have the ultimate discretion in determining validity and severity of issu
 
 ## 2. Respond to curated Low-risk submissions
 
-### [Low-risk submissions →](../../issues?q=is%3Aopen+is%3Aissue+label%3A"QA+%28Quality+Assurance%29"+-label%3Aunsatisfactory%2C"grade-c"%2C"sponsor+confirmed"%2C"sponsor+acknowledged"%2C"sponsor+disputed")
+### [Low-risk submissions →](../../issues?q=is%3Aopen+is%3Aissue+label%3A"QA+%28Quality+Assurance%29"+-label%3Aunsatisfactory%2Cgrade-c%2C"insufficient+quality+report"%2C"sponsor+confirmed"%2C"sponsor+acknowledged"%2C"sponsor+disputed"+)
 
-<sup>This curated list will shorten as you work. [View the original, longer list →](../../issues?q=is%3Aopen+is%3Aissue+label%3A"QA+%28Quality+Assurance%29"+-label%3Aunsatisfactory%2C"grade-c")</sup>
+<sup>This curated list will shorten as you work. [View the original, longer list →](../../issues?q=is%3Aopen+is%3Aissue+label%3A"QA+%28Quality+Assurance%29"+-label%3Aunsatisfactory%2Cgrade-c%2C"insufficient+quality+report")</sup>
 
 - Leave a comment for the judge on any reports you consider to be particularly high quality.
 - Add the `sponsor disputed` label to any reports that you think should be completely disregarded by the judge, i.e. the report contains no valid findings at all.
