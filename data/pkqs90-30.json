@@ -1,0 +1,8 @@
+{
+  "contest": 383,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "Chainlink aggregator does not handle minAnswer/maxAnswer circuit breakers",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/30"
+}
