@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "josephdara",
+  "risk": "2",
+  "title": "incorrect price for negative ticks due to lack of rounding down",
+  "issueId": 115,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/115",
+  "originalIssueId": 578,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/578"
+}
