@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "0xhere2learn",
+  "risk": "3",
+  "title": "Users Can Avoid Liquidation by Updating Recipient to a Blacklisted Address",
+  "issueId": 199,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/199",
+  "originalIssueId": 284,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/284"
+}
