@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "BlockSafe",
+  "risk": "2",
+  "title": "Incomplete Price Range Validation in `validateStopPrice` Function",
+  "issueId": 146,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/146",
+  "originalIssueId": 465,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/465"
+}
