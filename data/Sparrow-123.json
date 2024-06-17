@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Sparrow",
+  "risk": "2",
+  "title": "Missing deadlines in swap functions",
+  "issueId": 123,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/123",
+  "originalIssueId": 556,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/556"
+}
