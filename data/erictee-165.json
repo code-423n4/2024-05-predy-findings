@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "erictee",
+  "risk": "3",
+  "title": "Denial of service in liquidation process in `LiquidationLogic.sol::liquidate` if the recipient address is blacklisted in certain tokens or the tokens are paused.",
+  "issueId": 165,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/165",
+  "originalIssueId": 396,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/396"
+}
