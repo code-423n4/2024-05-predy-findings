@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "ak1",
+  "risk": "2",
+  "title": "PriceFeed : getSqrtPrice will revert due to stale price or when the price is not updated in pyth ",
+  "issueId": 85,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/85",
+  "originalIssueId": 656,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/656"
+}
