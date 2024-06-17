@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Giorgio",
+  "risk": "2",
+  "title": " UniV3 twap Oracle unsafe on L2s in event of Sequencer downtime",
+  "issueId": 137,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/137",
+  "originalIssueId": 484,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/484"
+}
