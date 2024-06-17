@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "emmac002",
+  "risk": "2",
+  "title": "Unchecked Chainlink's latestRoundData may return stale price which impacts the price feed result",
+  "issueId": 175,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/175",
+  "originalIssueId": 369,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/369"
+}
