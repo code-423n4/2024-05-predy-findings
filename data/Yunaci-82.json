@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Yunaci",
+  "risk": "3",
+  "title": "Spot price is used for in-range liquidity reallocation, resulting in liquidity manipulation",
+  "issueId": 82,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/82",
+  "originalIssueId": 660,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/660"
+}
