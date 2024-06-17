@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "0xsalami",
+  "risk": "2",
+  "title": "Improper use of deadline parameter, result in token swap at a unfavourable price",
+  "issueId": 160,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/160",
+  "originalIssueId": 410,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/410"
+}
