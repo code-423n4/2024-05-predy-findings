@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "WinSec",
+  "risk": "2",
+  "title": "No check for whether the price range returned by Pyth is accurate and thus inaccurate price range will be consumed.",
+  "issueId": 136,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/136",
+  "originalIssueId": 486,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/486"
+}
