@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Kaysoft",
+  "risk": "2",
+  "title": "`executeTrade(...)` can be DOSed due to the non configurable `MAX_ACCEPTABLE_SQRT_PRICE_RANGE`",
+  "issueId": 51,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/51",
+  "originalIssueId": 580,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/580"
+}
