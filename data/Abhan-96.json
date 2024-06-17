@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Abhan",
+  "risk": "3",
+  "title": "Freshness of pricefeed not checked properly leads to the usage of stale pricefeeds.",
+  "issueId": 96,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/96",
+  "originalIssueId": 630,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/630"
+}
