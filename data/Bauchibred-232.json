@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": " No grace period applied to liquidations which then makes users unfairly liquidated in the case where the sequencer goes down and just comes back up",
+  "issueId": 232,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/232",
+  "originalIssueId": 118,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/118"
+}
