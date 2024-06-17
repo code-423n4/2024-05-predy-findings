@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "MrCrowNFT",
+  "risk": "2",
+  "title": "USDC and USDT positions can not be liquidated if it gets blacklisted",
+  "issueId": 202,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/202",
+  "originalIssueId": 274,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/274"
+}
