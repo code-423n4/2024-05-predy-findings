@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "WinSec",
+  "risk": "3",
+  "title": "Trader can avoid Liquidation of unhealthy position by entering a blacklist",
+  "issueId": 166,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/166",
+  "originalIssueId": 393,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/393"
+}
