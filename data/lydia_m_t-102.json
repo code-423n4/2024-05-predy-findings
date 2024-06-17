@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "lydia_m_t",
+  "risk": "2",
+  "title": "Missing L2 Sequencer status check in `getSqrtPrice` function",
+  "issueId": 102,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/102",
+  "originalIssueId": 608,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/608"
+}
