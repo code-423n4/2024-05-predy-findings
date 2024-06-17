@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "0xabhay",
+  "risk": "2",
+  "title": "Incorrect Handling of Negative Tick Deltas in callUniswapObserve Function Leading to Mispricing",
+  "issueId": 111,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/111",
+  "originalIssueId": 589,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/589"
+}
