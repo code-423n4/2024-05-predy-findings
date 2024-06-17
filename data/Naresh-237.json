@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Naresh",
+  "risk": "3",
+  "title": "Incorrect prices will be returned for negative ticks.",
+  "issueId": 237,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/237",
+  "originalIssueId": 82,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/82"
+}
