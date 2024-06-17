@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "erictee",
+  "risk": "2",
+  "title": "Missing L2 sequencer checks for Chainlink oracle ",
+  "issueId": 163,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/163",
+  "originalIssueId": 399,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/399"
+}
