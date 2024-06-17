@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Kaysoft",
+  "risk": "3",
+  "title": "Malicious user can prevent themselves from been liquidated by setting `vault.recipient` to a blacklisted account",
+  "issueId": 218,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/218",
+  "originalIssueId": 208,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/208"
+}
