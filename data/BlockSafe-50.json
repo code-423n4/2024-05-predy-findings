@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "BlockSafe",
+  "risk": "2",
+  "title": "Incorrect calculation of decayedSlippageTorelance",
+  "issueId": 50,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/50",
+  "originalIssueId": 590,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/590"
+}
