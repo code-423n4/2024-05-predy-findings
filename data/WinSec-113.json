@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "WinSec",
+  "risk": "2",
+  "title": "No slippage control for supply and withdraw functions in `PredyPool`",
+  "issueId": 113,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/113",
+  "originalIssueId": 584,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/584"
+}
