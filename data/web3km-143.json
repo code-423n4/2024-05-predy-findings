@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "web3km",
+  "risk": "2",
+  "title": "`PriceFeed::getSqrtPrice()` may return wrong/stale prices",
+  "issueId": 143,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/143",
+  "originalIssueId": 471,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/471"
+}
