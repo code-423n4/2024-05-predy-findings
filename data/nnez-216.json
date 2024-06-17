@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "nnez",
+  "risk": "2",
+  "title": "Malicious user can cause `GammaTradeMarket.sol#execLiquidationCall` to fail from outOfGas error by opening a lot of small positions prior to actual position",
+  "issueId": 216,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/216",
+  "originalIssueId": 232,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/232"
+}
