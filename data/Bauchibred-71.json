@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": "Protocol implements a disparity when validating the stop prices which would lead to valid instances to be perceived as invalid and vice versa.",
+  "issueId": 71,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/71",
+  "originalIssueId": 130,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/130"
+}
