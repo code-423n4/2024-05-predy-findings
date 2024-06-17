@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "jolah1",
+  "risk": "2",
+  "title": "Pyth's `updatePriceFeeds(....)` should be called first before calling the `getPriceNoOlderThan(...)`  to get accurate price.",
+  "issueId": 84,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/84",
+  "originalIssueId": 657,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/657"
+}
