@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "nnez",
+  "risk": "2",
+  "title": "`PriceFeed.sol` is missing check for stale price data received from Chainlink",
+  "issueId": 221,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/221",
+  "originalIssueId": 180,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/180"
+}
