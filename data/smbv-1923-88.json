@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "smbv-1923",
+  "risk": "2",
+  "title": "No check for round completeness in latestRoundData",
+  "issueId": 88,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/88",
+  "originalIssueId": 651,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/651"
+}
