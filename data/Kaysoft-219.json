@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Kaysoft",
+  "risk": "2",
+  "title": "Using `block.timestamp` as `deadline` for swap allows the transaction to be held indefinitely till it incurs maximum slippage loss",
+  "issueId": 219,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/219",
+  "originalIssueId": 207,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/207"
+}
