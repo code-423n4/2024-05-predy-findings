@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "atoko",
+  "risk": "2",
+  "title": "Missing check for active sequencer",
+  "issueId": 174,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/174",
+  "originalIssueId": 370,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/370"
+}
