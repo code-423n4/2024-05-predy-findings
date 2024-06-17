@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": "`UniHelper#getSqrtTWAP()` would return the wrong prices for negative tick deltas since it doesn't round down for them",
+  "issueId": 233,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/233",
+  "originalIssueId": 117,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/117"
+}
