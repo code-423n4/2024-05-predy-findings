@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "ayden",
+  "risk": "2",
+  "title": "Chainlink's latestRoundData might return stale price",
+  "issueId": 211,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/211",
+  "originalIssueId": 241,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/241"
+}
