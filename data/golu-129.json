@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "golu",
+  "risk": "3",
+  "title": "ChainlinkOracle will return the wrong price for asset if underlying aggregator hits minAnswer",
+  "issueId": 129,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/129",
+  "originalIssueId": 532,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/532"
+}
