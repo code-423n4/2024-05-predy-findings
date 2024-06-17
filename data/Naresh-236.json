@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Naresh",
+  "risk": "2",
+  "title": "Lacking checks to determine whether the Arbitrum Sequencer is active",
+  "issueId": 236,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/236",
+  "originalIssueId": 85,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/85"
+}
