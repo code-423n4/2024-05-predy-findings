@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "emmac002",
+  "risk": "2",
+  "title": "Storage Collision in `BaseMarket.sol` and `BaseMarketUpgradable.sol`",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/61",
+  "originalIssueId": 366,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/366"
+}
