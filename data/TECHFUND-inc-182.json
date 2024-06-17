@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "TECHFUND-inc",
+  "risk": "2",
+  "title": "Interest accrued should be computed and updated based on old rate before IRM rate updates",
+  "issueId": 182,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/182",
+  "originalIssueId": 356,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/356"
+}
