@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "mt030d",
+  "risk": "2",
+  "title": "Lack of price confidence verification in Pyth oracle data",
+  "issueId": 214,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/214",
+  "originalIssueId": 235,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/235"
+}
