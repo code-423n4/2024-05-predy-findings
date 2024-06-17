@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Pataroff",
+  "risk": "2",
+  "title": "No protection of uninitialized implementation contracts from an attacker",
+  "issueId": 122,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/122",
+  "originalIssueId": 560,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/560"
+}
