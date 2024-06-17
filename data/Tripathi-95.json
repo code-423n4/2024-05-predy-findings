@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Tripathi",
+  "risk": "3",
+  "title": "supply and withdraw method lacks slippage mechanism",
+  "issueId": 95,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/95",
+  "originalIssueId": 631,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/631"
+}
