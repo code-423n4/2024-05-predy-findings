@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Yunaci",
+  "risk": "3",
+  "title": "Liquidity manipulation is possible when trading",
+  "issueId": 157,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/157",
+  "originalIssueId": 422,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/422"
+}
