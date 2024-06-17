@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "igdbase",
+  "risk": "2",
+  "title": "Trades Finalize with Vulnerable Prices Due to slot0 Implementation",
+  "issueId": 145,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/145",
+  "originalIssueId": 468,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/468"
+}
