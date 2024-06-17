@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "WinSec",
+  "risk": "3",
+  "title": "Using slot0 for `sqrtPrice` in order to `calculateStableAmount` could lead to price manipulation",
+  "issueId": 162,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/162",
+  "originalIssueId": 403,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/403"
+}
