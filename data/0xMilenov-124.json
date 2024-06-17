@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "0xMilenov",
+  "risk": "2",
+  "title": "Liquidation issues caused by blacklisted recipients",
+  "issueId": 124,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/124",
+  "originalIssueId": 549,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/549"
+}
