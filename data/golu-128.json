@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "golu",
+  "risk": "3",
+  "title": "`latestRoundData()` has no check for round completeness",
+  "issueId": 128,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/128",
+  "originalIssueId": 536,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/536"
+}
