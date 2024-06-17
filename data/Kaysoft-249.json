@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Kaysoft",
+  "risk": "2",
+  "title": "Missing check for L2(Arbitrum/Optimism) sequencer is active or down for chainlink feed.",
+  "issueId": 249,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/249",
+  "originalIssueId": 30,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/30"
+}
