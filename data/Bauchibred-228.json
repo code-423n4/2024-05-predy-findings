@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": "Trades having both `limit & stop` orders are wrongly validated",
+  "issueId": 228,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/228",
+  "originalIssueId": 129,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/129"
+}
