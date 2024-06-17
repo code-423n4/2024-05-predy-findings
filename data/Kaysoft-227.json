@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Kaysoft",
+  "risk": "2",
+  "title": "Pyth.getPriceNoOlderThan(...) transaction may fail if `pyth.updatePriceFeeds{ value: fee }(priceUpdate)` is not called. ",
+  "issueId": 227,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/227",
+  "originalIssueId": 142,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/142"
+}
