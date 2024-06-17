@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "jolah1",
+  "risk": "2",
+  "title": "`vault.recipient`  USDC blacklisted accounts will revert and cause denial of service (DOS).",
+  "issueId": 190,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/190",
+  "originalIssueId": 333,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/333"
+}
