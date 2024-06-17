@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "josephdara",
+  "risk": "3",
+  "title": "TWAP price unused in multiple places, enabling the manipulation of prices.",
+  "issueId": 117,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/117",
+  "originalIssueId": 576,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/576"
+}
