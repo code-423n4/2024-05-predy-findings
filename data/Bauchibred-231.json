@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": " `PriceFeed#getSqrtPrice()` would be broken due to the incorrect method of integrating Pyth oracles which would also fault other core logics such as liquidations",
+  "issueId": 231,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/231",
+  "originalIssueId": 121,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/121"
+}
