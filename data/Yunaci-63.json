@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Yunaci",
+  "risk": "2",
+  "title": "A malicious filler can prevent trades in markets inheriting from `BaseMarketUpgradable`",
+  "issueId": 63,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/63",
+  "originalIssueId": 305,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/305"
+}
