@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "unix515",
+  "risk": "2",
+  "title": "Add default constructor that calls `_disableInitializers()` to upgradable contracts.",
+  "issueId": 247,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/247",
+  "originalIssueId": 40,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/40"
+}
