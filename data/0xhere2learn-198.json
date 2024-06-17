@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "0xhere2learn",
+  "risk": "3",
+  "title": "Manipulation via `slot0`",
+  "issueId": 198,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/198",
+  "originalIssueId": 286,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/286"
+}
