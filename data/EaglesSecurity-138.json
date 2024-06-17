@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "EaglesSecurity",
+  "risk": "2",
+  "title": "Protocol could lose funds if a trader gets blacklisted and liquidation fails",
+  "issueId": 138,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/138",
+  "originalIssueId": 481,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/481"
+}
