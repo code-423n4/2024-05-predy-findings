@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Bob",
+  "risk": "2",
+  "title": "GammaTradeMarket upgrade corrupts storage",
+  "issueId": 70,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/70",
+  "originalIssueId": 205,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/205"
+}
