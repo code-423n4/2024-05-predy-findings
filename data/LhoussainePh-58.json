@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "LhoussainePh",
+  "risk": "2",
+  "title": "Potential Denial of Service (DoS) Vulnerability in `getUserPositions` Function",
+  "issueId": 58,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/58",
+  "originalIssueId": 418,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/418"
+}
