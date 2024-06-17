@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "0xabhay",
+  "risk": "2",
+  "title": "Vulnerability to Stale Data in callUniswapObserve Function Due to Sequencer Downtime on Layer 2 Solutions",
+  "issueId": 107,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/107",
+  "originalIssueId": 597,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/597"
+}
