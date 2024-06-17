@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "dyoff",
+  "risk": "2",
+  "title": "Chainlink Price Feed Lacks Stale Checks",
+  "issueId": 83,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/83",
+  "originalIssueId": 658,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/658"
+}
