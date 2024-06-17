@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "joicygiore",
+  "risk": "2",
+  "title": "`PerpMarketLib::validateStopPrice()` method incorrectly calls `DecayLib.decay2()` with the return value of `PerpMarketLib::ratio(oraclePrice, stopPrice)` as the last parameter",
+  "issueId": 73,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/73",
+  "originalIssueId": 63,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/63"
+}
