@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "ZanyBonzy",
+  "risk": "2",
+  "title": "Wrong bool parameter returned during reallocation can lead to issues",
+  "issueId": 57,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/57",
+  "originalIssueId": 438,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/438"
+}
