@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "atoko",
+  "risk": "2",
+  "title": "Missing disableInitializer in Constructor of Implementation Contract",
+  "issueId": 180,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/180",
+  "originalIssueId": 360,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/360"
+}
