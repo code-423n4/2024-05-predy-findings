@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "0xMilenov",
+  "risk": "2",
+  "title": "Lack of price freshness check in 'PriceFeed' allows a stale price to be used",
+  "issueId": 126,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/126",
+  "originalIssueId": 539,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/539"
+}
