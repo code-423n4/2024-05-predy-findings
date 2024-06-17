@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "jolah1",
+  "risk": "2",
+  "title": "No check for `getSqrtPrice()` to handle Arbitrum L2 sequencer outages in chainlink feeds.",
+  "issueId": 245,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/245",
+  "originalIssueId": 55,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/55"
+}
