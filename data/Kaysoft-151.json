@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Kaysoft",
+  "risk": "3",
+  "title": "`callUniswapObserve(...)` will return a wrong price for negative tick because negative values of tick are not rounded",
+  "issueId": 151,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/151",
+  "originalIssueId": 439,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/439"
+}
