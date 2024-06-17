@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "biakia",
+  "risk": "2",
+  "title": "Chainlink price is used without checking validity",
+  "issueId": 225,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/225",
+  "originalIssueId": 149,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/149"
+}
