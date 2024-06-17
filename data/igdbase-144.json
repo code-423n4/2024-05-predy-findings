@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "igdbase",
+  "risk": "2",
+  "title": "Lack of deadlines in swaps exposes vulnerabilities to potentially malicious executions.",
+  "issueId": 144,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/144",
+  "originalIssueId": 469,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/469"
+}
