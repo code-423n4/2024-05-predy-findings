@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Sparrow",
+  "risk": "2",
+  "title": "Incorrect Handling of Negative Tick Deltas in TWAP Calculation",
+  "issueId": 90,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/90",
+  "originalIssueId": 649,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/649"
+}
