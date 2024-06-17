@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "DPS",
+  "risk": "3",
+  "title": "User can prevent himself for being liquidated",
+  "issueId": 150,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/150",
+  "originalIssueId": 449,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/449"
+}
