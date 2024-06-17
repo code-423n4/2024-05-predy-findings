@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "3n0ch",
+  "risk": "2",
+  "title": "In `GammaTradeMarket`, an attacker can fill up the `positionIDs[attacker]` array and make the filler pay maximum gas limit per transaction",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/59",
+  "originalIssueId": 395,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/395"
+}
