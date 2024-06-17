@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "julian_avantgarde",
+  "risk": "2",
+  "title": "Use of `slot0` to get `sqrtPriceLimitX96` can lead to price manipulation",
+  "issueId": 103,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/103",
+  "originalIssueId": 607,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/607"
+}
