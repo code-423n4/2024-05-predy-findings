@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "golu",
+  "risk": "3",
+  "title": "Not Checking For Down L2 Sequencer",
+  "issueId": 194,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/194",
+  "originalIssueId": 313,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/313"
+}
