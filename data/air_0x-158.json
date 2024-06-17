@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "air_0x",
+  "risk": "2",
+  "title": "Price calculation susceptible to flashloan attacks",
+  "issueId": 158,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/158",
+  "originalIssueId": 417,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/417"
+}
