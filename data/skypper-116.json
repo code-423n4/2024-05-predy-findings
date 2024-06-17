@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "skypper",
+  "risk": "2",
+  "title": "No expiration deadline leads to losing a lot of funds",
+  "issueId": 116,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/116",
+  "originalIssueId": 577,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/577"
+}
