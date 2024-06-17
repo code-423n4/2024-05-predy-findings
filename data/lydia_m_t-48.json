@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "lydia_m_t",
+  "risk": "2",
+  "title": "Potential failure in liquidation process due to blacklisted recipients",
+  "issueId": 48,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/48",
+  "originalIssueId": 625,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/625"
+}
