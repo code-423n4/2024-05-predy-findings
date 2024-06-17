@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "dyoff",
+  "risk": "2",
+  "title": "Risk of Failing Liquidation Due to Blacklisted Recipient",
+  "issueId": 140,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/140",
+  "originalIssueId": 479,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/479"
+}
