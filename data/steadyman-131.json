@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "steadyman",
+  "risk": "2",
+  "title": "缺少检查的喂加系统",
+  "issueId": 131,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/131",
+  "originalIssueId": 526,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/526"
+}
