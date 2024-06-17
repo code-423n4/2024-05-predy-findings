@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "boringslav",
+  "risk": "2",
+  "title": "Missing disableInitializer call in the constructor",
+  "issueId": 220,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/220",
+  "originalIssueId": 186,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/186"
+}
