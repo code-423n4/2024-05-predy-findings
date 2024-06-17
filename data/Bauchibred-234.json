@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": "A dangerous vault would be perceived as _not dangerous_ due to implementation of lagging prices being used in protocol when validating the danger zones of positions",
+  "issueId": 234,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/234",
+  "originalIssueId": 116,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/116"
+}
