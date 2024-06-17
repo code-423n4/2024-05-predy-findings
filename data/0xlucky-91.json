@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "0xlucky",
+  "risk": "2",
+  "title": "Chainlink's latestRoundData might return stale or incorrect results",
+  "issueId": 91,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/91",
+  "originalIssueId": 647,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/647"
+}
