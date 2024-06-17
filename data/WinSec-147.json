@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "WinSec",
+  "risk": "2",
+  "title": "No check if Arbitrum L2 sequencer is down in Chainlink feeds",
+  "issueId": 147,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/147",
+  "originalIssueId": 464,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/464"
+}
