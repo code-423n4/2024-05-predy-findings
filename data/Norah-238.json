@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Norah",
+  "risk": "2",
+  "title": "Chainlink oracle does not implement check against min price.",
+  "issueId": 238,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/238",
+  "originalIssueId": 77,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/77"
+}
