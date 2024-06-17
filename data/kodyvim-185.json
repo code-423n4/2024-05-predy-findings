@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "kodyvim",
+  "risk": "3",
+  "title": "Usage of slot0 would results to highly manipulative trade",
+  "issueId": 185,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/185",
+  "originalIssueId": 344,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/344"
+}
