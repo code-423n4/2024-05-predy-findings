@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Tigerfrake",
+  "risk": "2",
+  "title": "No Protection of Uninitialized Implementation Contracts From Attacker",
+  "issueId": 302,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/302",
+  "originalIssueId": 6,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/6"
+}
