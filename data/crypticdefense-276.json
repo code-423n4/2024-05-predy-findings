@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "crypticdefense",
+  "risk": "2",
+  "title": "Multiple instances of usage of `slot0` to calculate square root price, which is easily manipulatable",
+  "issueId": 276,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/276",
+  "originalIssueId": 500,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/500"
+}
