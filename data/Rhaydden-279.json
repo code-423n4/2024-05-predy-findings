@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Rhaydden",
+  "risk": "2",
+  "title": "`callUniswapObserve` will show incorrect price for negative ticks because it does not round up for them",
+  "issueId": 279,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/279",
+  "originalIssueId": 442,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/442"
+}
