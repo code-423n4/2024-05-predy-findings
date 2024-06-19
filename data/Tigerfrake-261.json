@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Tigerfrake",
+  "risk": "2",
+  "title": "`vaultId` is used instead of `positionId` when saving user position.",
+  "issueId": 261,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/261",
+  "originalIssueId": 210,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/210"
+}
