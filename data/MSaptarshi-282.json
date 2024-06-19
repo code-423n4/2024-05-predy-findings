@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "MSaptarshi",
+  "risk": "2",
+  "title": "UniV3 Oracle unsafe on L2s in event of Sequencer downtime",
+  "issueId": 282,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/282",
+  "originalIssueId": 354,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/354"
+}
