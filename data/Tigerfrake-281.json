@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Tigerfrake",
+  "risk": "2",
+  "title": "`updateFeeRatio()` does not collect previous fees before updating `feeRatio`",
+  "issueId": 281,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/281",
+  "originalIssueId": 406,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/406"
+}
