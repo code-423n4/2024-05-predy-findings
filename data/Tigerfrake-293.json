@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Tigerfrake",
+  "risk": "2",
+  "title": "Inflexible TWAP `_ORACLE_PERIOD` leads to inadequate pricing of assets",
+  "issueId": 293,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/293",
+  "originalIssueId": 218,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/218"
+}
