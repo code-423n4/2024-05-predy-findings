@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Tigerfrake",
+  "risk": "2",
+  "title": "Missing check for the max/min price in `getSqrtPrice()`",
+  "issueId": 299,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/299",
+  "originalIssueId": 51,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/51"
+}
