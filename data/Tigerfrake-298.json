@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Tigerfrake",
+  "risk": "2",
+  "title": "Unset `deadline` on swaps allows for malicious swap executions.",
+  "issueId": 298,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/298",
+  "originalIssueId": 64,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/64"
+}
