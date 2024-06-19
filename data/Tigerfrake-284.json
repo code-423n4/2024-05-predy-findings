@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Tigerfrake",
+  "risk": "2",
+  "title": "Missing `updateValidTimePeriod()` in `PriceFeed.sol`",
+  "issueId": 284,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/284",
+  "originalIssueId": 330,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/330"
+}
