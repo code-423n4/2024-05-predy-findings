@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Rhaydden",
+  "risk": "2",
+  "title": "Use of slot0 can lead to price manipulations",
+  "issueId": 278,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/278",
+  "originalIssueId": 456,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/456"
+}
