@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "MSaptarshi",
+  "risk": "2",
+  "title": "UniV3 Oracle unsafe on L2s",
+  "issueId": 260,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/260",
+  "originalIssueId": 345,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/345"
+}
