@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "bigtone",
+  "risk": "3",
+  "title": "Missing slippage check in supply and withdraw function in PredyPool",
+  "issueId": 268,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/268",
+  "originalIssueId": 620,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/620"
+}
