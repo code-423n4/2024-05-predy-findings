@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "crypticdefense",
+  "risk": "2",
+  "title": "Malicious user can create positions that can never be liquidated, breaking protocol invariant",
+  "issueId": 275,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/275",
+  "originalIssueId": 507,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/507"
+}
