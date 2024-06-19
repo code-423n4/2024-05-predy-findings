@@ -1,0 +1,10 @@
+{
+  "contest": 383,
+  "handle": "Bigsam",
+  "risk": "2",
+  "title": "Improper Validation in PerpMarketV1: Reverting Mechanism Fails to revert an Invalid Trades",
+  "issueId": 271,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/271",
+  "originalIssueId": 530,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-predy-validation/issues/530"
+}
