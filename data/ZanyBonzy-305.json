@@ -1,0 +1,8 @@
+{
+  "contest": 383,
+  "handle": "ZanyBonzy",
+  "risk": "2",
+  "title": "Use of slot0 to get `sqrtPriceX96` before performing swaps",
+  "issueId": 305,
+  "issueUrl": "https://github.com/code-423n4/2024-05-predy-findings/issues/305",
+}
